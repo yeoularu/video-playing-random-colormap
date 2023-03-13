@@ -8,7 +8,7 @@
 
 `Python3` and `OpenCV` are needed.
 
-Edit `video_source` at `video_playing_random_colormap.py` (camera ID or file path). Default is 0(webcam)
+Edit `video_source` at `video_playing_random_colormap.py` (Camera ID or File path). Default is 0(Webcam ID)
 
 ```bash
 git clone https://github.com/yeoularu/video-playing-random-colormap
